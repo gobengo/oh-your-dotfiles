@@ -45,7 +45,7 @@ fi
 
 DEFAULT_USER=$(whoami)
 DISABLE_AUTO_UPDATE="true"
-ZSH_THEME="agnoster"
+ZSH_THEME="avit"
 
 # configure plugins
 plugins=("${(@f)$(
